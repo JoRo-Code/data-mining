@@ -1,6 +1,7 @@
 ipykernel
 jupyter
+pyspark
 
-
+numpy
 
 kagglehub
