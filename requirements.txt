@@ -3,5 +3,6 @@ jupyter
 pyspark
 
 numpy
+tqdm
 
 kagglehub
