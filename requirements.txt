@@ -1,6 +1,5 @@
 ipykernel
 jupyter
-pyspark
 
 numpy
 tqdm
