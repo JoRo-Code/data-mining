@@ -1,0 +1,12 @@
+ipykernel
+jupyter
+
+numpy
+tqdm
+torch
+pandas
+scipy
+
+mmh3
+matplotlib
+
